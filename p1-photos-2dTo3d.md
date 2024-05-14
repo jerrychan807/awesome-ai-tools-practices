@@ -1,6 +1,7 @@
 # 需求:
+熟悉一下图片2d转3D的AI工具: LeiaPix 
 
-熟悉一下图片2d转3D的AI工具:LeiaPix        
+# 工具:
 - LeiaPix - Convert 2D to 3D Depth Animation AI Technology
 - https://www.leiapix.com/
 
