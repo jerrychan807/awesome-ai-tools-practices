@@ -1,3 +1,8 @@
+# Infos:
+
+- Author: Jerry
+- Date: 20240515
+
 # 需求:
 
 生成新公司的logo。

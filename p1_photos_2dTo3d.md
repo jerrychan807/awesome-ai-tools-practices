@@ -1,3 +1,8 @@
+# Infos:
+
+- Author: Jerry
+- Date: 20240514
+
 # 需求:
 熟悉一下图片2d转3D的AI工具: LeiaPix 
 
