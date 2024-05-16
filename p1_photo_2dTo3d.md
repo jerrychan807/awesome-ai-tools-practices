@@ -1,7 +1,7 @@
 # Infos:
 
 - Author: Jerry
-- Date: 20240514
+- Date: 2024.05.14
 
 # 需求:
 熟悉一下图片2d转3D的AI工具: LeiaPix 

@@ -16,7 +16,6 @@ Arc browser can do that!
 
 [Arc from The Browser Company](https://arc.net/)
 
-
 # 示例:
 
 1. 打开 Arc 浏览器
@@ -26,7 +25,6 @@ Arc browser can do that!
 5. Arc 会根据网页的内容，结合你的搜索内容，返回答案
 
 官网例子如下： https://arc.net/max/tutorial
-   
 
 # 效果:
 
