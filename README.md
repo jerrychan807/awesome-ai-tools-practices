@@ -16,7 +16,7 @@ Awesome-AI-Tools-Practices,熟悉使用AI相关工具的小例子
 | 6  | code | 截图生成Python小游戏 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p6_code_photosGenerateGame.md) |
 | 7  | tool | 拆分生成子任务Todolist工具 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p7_tool_todolist.md) |
 | 8  | text | chatgpt联网查找本地新闻 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p8_text_localNews.md) |
-| 9  | 单元格 |单元格 |单元格 |
+| 9  | tool | 基于AI的代码助手工具Codeium |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p9_tool_codeium.md) |
 | 10  | 单元格 |单元格 |单元格 |
 | 11  | 单元格 |单元格 |单元格 |
 | 12  | 单元格 |单元格 |单元格 |
