@@ -14,14 +14,14 @@ Awesome-AI-Tools-Practices
 | 4  | text | 总结视频内容 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p4_text_videoSummary.md) |
 | 5  | tool | 原生自带AI能力的浏览器 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p5_tool_arcBrowserAi.md) |
 | 6  | code | 截图生成Python小游戏 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p6_code_photosGenerateGame.md) |
-| 7  | tool | 拆分生成子任务Todolist工具 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p7_tool_todolist.md) |
+| 7  | tool | 拆分生成子任务Todolist工具 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p7_tool_todolist.md) |
 | 8  | text | chatgpt联网查找本地新闻 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p8_text_localNews.md) |
-| 9  | tool | 基于AI的代码助手工具Codeium |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p9_tool_codeium.md) |
-| 10  | tool | 基于kimi的微信群ai聊天机器人 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p10_tool_kimiWechatBot.md) |
-| 11  | tool | 注册ClaudeAi记录 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p11_tool_claudeAiRegister.md) |
-| 12  | tool | 美女图片生成器 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p12_tool_beautyPhotosGenerator.md) |
-| 13  | 单元格 |单元格 |单元格 |
-| 14  | 单元格 |单元格 |单元格 |
+| 9  | tool | 基于AI的代码助手工具Codeium | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p9_tool_codeium.md) |
+| 10  | tool | 基于kimi的微信群ai聊天机器人 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p10_tool_kimiWechatBot.md) |
+| 11  | tool | 注册ClaudeAi记录 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p11_tool_claudeAiRegister.md) |
+| 12  | tool | 美女图片生成器 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p12_tool_beautyPhotosGenerator.md) |
+| 13  | tool | 图片提示语生成工具 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p13_tool_imageToPrompt.md) |
+| 14  | tool | 图象提示语市场 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p14_tool_aIPromptMarketplace.md) |
 | 15  | 单元格 |单元格 |单元格 |
 | 16  | 单元格 |单元格 |单元格 |
 | 17  | 单元格 |单元格 |单元格 |
@@ -41,7 +41,7 @@ Awesome-AI-Tools-Practices
 
 ## Progress Bar:
 
-![](https://geps.dev/progress/20)
+![](https://geps.dev/progress/30)
 
 ## Contributors:
 
