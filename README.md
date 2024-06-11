@@ -2,7 +2,7 @@
 Awesome-AI-Tools-Practices
 
 - 尝试将AI工具融于日常的workflow
-- Target:100个实践的小示例
+- Target: 50个关于AI的小示例
 
 ## Tables:
 
@@ -19,7 +19,7 @@ Awesome-AI-Tools-Practices
 | 9  | tool | 基于AI的代码助手工具Codeium |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p9_tool_codeium.md) |
 | 10  | tool | 基于kimi的微信群ai聊天机器人 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p10_tool_kimiWechatBot.md) |
 | 11  | tool | 注册ClaudeAi记录 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p11_tool_claudeAiRegister.md) |
-| 12  | 单元格 |单元格 |单元格 |
+| 12  | tool | 美女图片生成器 |[文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p12_tool_beautyPhotosGenerator.md) |
 | 13  | 单元格 |单元格 |单元格 |
 | 14  | 单元格 |单元格 |单元格 |
 | 15  | 单元格 |单元格 |单元格 |
