@@ -21,7 +21,7 @@ Awesome-AI-Tools-Practices
 | 11  | tool | 注册ClaudeAi记录 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p11_tool_claudeAiRegister.md) |
 | 12  | tool | 美女图片生成器 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p12_tool_beautyPhotosGenerator.md) |
 | 13  | tool | 图片提示语生成工具 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p13_tool_imageToPrompt.md) |
-| 14  | tool | 图象提示语市场 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p14_tool_aIPromptMarketplace.md) |
+| 14  | tool | 图片提示语市场 | [文章](https://github.com/jerrychan807/awesome-ai-tools-practices/blob/main/p14_tool_aIPromptMarketplace.md) |
 | 15  | 单元格 |单元格 |单元格 |
 | 16  | 单元格 |单元格 |单元格 |
 | 17  | 单元格 |单元格 |单元格 |
